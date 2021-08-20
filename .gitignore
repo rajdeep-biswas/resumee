@@ -1,0 +1,5 @@
+pdfsamples
+src/webapp/uploads
+src/webapp/helpers/__pycache__
+src/webapp/__pycache__
+.DS_Store
